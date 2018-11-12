@@ -1,0 +1,9 @@
+{
+  "name": "movieapi",
+  "version": "1.0.0",
+  "description": "Movie api with graphql",
+  "main": "index.js",
+  "repository": "https://github.com/luciferkala/movieapi.git",
+  "author": "maestroprog <maestroprog@naver.com>",
+  "license": "MIT"
+}
