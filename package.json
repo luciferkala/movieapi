@@ -5,5 +5,12 @@
   "main": "index.js",
   "repository": "https://github.com/luciferkala/movieapi.git",
   "author": "maestroprog <maestroprog@naver.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.16.7"
+  },
+  "scripts": {
+    "start": "nodeemon"
+  }
+
 }
